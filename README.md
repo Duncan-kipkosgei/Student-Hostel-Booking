@@ -19,8 +19,6 @@ Need to secure accommodation before a term deadline, often under time pressure.
 Are comparing multiple hostels/room types on price, distance, and amenities.
 Range from students booking for the first time (need guidance/reassurance) to returning students who just want to rebook fast.
 
-See docs/personas.md for detailed personas.
-
 Main Features
 Browse Hostels & Rooms — list/filter hostels, view room types, photos, pricing, availability.
 Compare Rooms — side-by-side comparison of selected room options.
@@ -29,4 +27,4 @@ Confirm Booking — review details, enter required info, confirm.
 Booking & Payment Status — always-visible status (pending / confirmed / paid) with next steps.
 Project Summary
 
-Over three weeks the team will: (1) conduct user research and define personas, requirements, and task flows; (2) design and link 12+ mobile screens in Balsamiq covering at least 3 complete user scenarios (browse-and-compare, book-a-room, check-status); (3) run usability testing with 5+ representative users, document findings, and revise the prototype accordingl
+Over three weeks the team will: (1) conduct user research and define personas, requirements, and task flows; (2) design and link 12+ mobile screens in Balsamiq covering at least 3 complete user scenarios (browse-and-compare, book-a-room, check-status); (3) run usability testing with 5+ representative users, document findings, and revise the prototype accordingly.
